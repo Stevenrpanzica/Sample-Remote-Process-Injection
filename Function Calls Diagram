@@ -153,7 +153,8 @@
         "Name": "NtClose"
       },
       "style": {
-        "outside-position": "left"
+        "outside-position": "left",
+        "border-color": "#000000"
       }
     },
     {
@@ -256,7 +257,8 @@
         "Module": "syscall"
       },
       "style": {
-        "outside-position": "left"
+        "outside-position": "left",
+        "border-color": "#000000"
       }
     },
     {
@@ -339,7 +341,8 @@
         "Name": "NtAllocateVirtualMemoryEx"
       },
       "style": {
-        "outside-position": "left"
+        "outside-position": "left",
+        "border-color": "#000000"
       }
     },
     {
@@ -461,7 +464,8 @@
         "Name": "NtClose"
       },
       "style": {
-        "outside-position": "left"
+        "outside-position": "left",
+        "border-color": "#000000"
       }
     },
     {
@@ -544,7 +548,8 @@
         "Name": "NtWriteVirtualMemory"
       },
       "style": {
-        "outside-position": "left"
+        "outside-position": "left",
+        "border-color": "#000000"
       }
     },
     {
@@ -646,7 +651,8 @@
         "Name": "NtFreeVirtualMemory"
       },
       "style": {
-        "outside-position": "left"
+        "outside-position": "left",
+        "border-color": "#000000"
       }
     },
     {
@@ -768,7 +774,8 @@
         "Name": "NtCreateThreadEx"
       },
       "style": {
-        "outside-position": "left"
+        "outside-position": "left",
+        "border-color": "#000000"
       }
     },
     {
@@ -870,7 +877,8 @@
         "Name": "NtFreeVirtualMemory"
       },
       "style": {
-        "outside-position": "left"
+        "outside-position": "left",
+        "border-color": "#000000"
       }
     },
     {
@@ -992,7 +1000,8 @@
         "Name": "NtClose"
       },
       "style": {
-        "outside-position": "left"
+        "outside-position": "left",
+        "border-color": "#000000"
       }
     },
     {
@@ -1091,7 +1100,8 @@
         "Name": "NtWaitForSingleObject"
       },
       "style": {
-        "outside-position": "left"
+        "outside-position": "left",
+        "border-color": "#000000"
       }
     },
     {
@@ -1193,7 +1203,8 @@
         "Name": "NtFreeVirtualMemory"
       },
       "style": {
-        "outside-position": "left"
+        "outside-position": "left",
+        "border-color": "#000000"
       }
     },
     {
@@ -1218,7 +1229,7 @@
     {
       "id": "n81",
       "position": {
-        "x": -304.90139836896924,
+        "x": -304.89827102443394,
         "y": 50
       },
       "caption": "Function",
@@ -1261,13 +1272,13 @@
         "y": 411.1010993498885
       },
       "caption": "Function",
-      "style": {
-        "outside-position": "left"
-      },
       "labels": [],
       "properties": {
         "Name": "ProcessEntry32W",
         "Module": "Kernel32.dll"
+      },
+      "style": {
+        "outside-position": "left"
       }
     },
     {
@@ -1277,13 +1288,13 @@
         "y": 772.2021986996978
       },
       "caption": "Function",
-      "style": {
-        "outside-position": "left"
-      },
       "labels": [],
       "properties": {
         "Name": "CreateToolHelp32Snapshot",
         "Module": "Kernel32.dll"
+      },
+      "style": {
+        "outside-position": "left"
       }
     },
     {
@@ -1293,13 +1304,13 @@
         "y": 1133.3032980495072
       },
       "caption": "Function",
-      "style": {
-        "outside-position": "left"
-      },
       "labels": [],
       "properties": {
         "Name": "GetCurrentProcessId",
         "Module": "api-ms-core-processthreads-l1-1-0"
+      },
+      "style": {
+        "outside-position": "left"
       }
     },
     {
@@ -1309,13 +1320,13 @@
         "y": 2638.323888764062
       },
       "caption": "Function",
-      "style": {
-        "outside-position": "left"
-      },
       "labels": [],
       "properties": {
         "Name": "CsrGetProcessId",
         "Module": "ntdll.dll"
+      },
+      "style": {
+        "outside-position": "left"
       }
     },
     {
@@ -1325,13 +1336,13 @@
         "y": 3016.7921470852834
       },
       "caption": "Function",
-      "style": {
-        "outside-position": "left"
-      },
       "labels": [],
       "properties": {
         "Name": "NtQueryInformationProcess",
         "Module": "ntdll.dll"
+      },
+      "style": {
+        "outside-position": "left"
       }
     },
     {
@@ -1341,12 +1352,13 @@
         "y": 3395.2604054065055
       },
       "caption": "Syscall",
-      "style": {
-        "outside-position": "left"
-      },
       "labels": [],
       "properties": {
         "Name": "NtQueryInformationProcess"
+      },
+      "style": {
+        "outside-position": "left",
+        "border-color": "#000000"
       }
     },
     {
@@ -1429,7 +1441,8 @@
         "Name": "NtQueryInformationProcess"
       },
       "style": {
-        "outside-position": "left"
+        "outside-position": "left",
+        "border-color": "#000000"
       }
     },
     {
@@ -1483,7 +1496,8 @@
         "Name": "NtMapViewOfSection"
       },
       "style": {
-        "outside-position": "left"
+        "outside-position": "left",
+        "border-color": "#000000"
       }
     },
     {
@@ -1512,13 +1526,13 @@
         "y": 411.1010993498882
       },
       "caption": "Function",
-      "style": {
-        "outside-position": "left"
-      },
       "labels": [],
       "properties": {
         "Name": "NtMapViewofSection",
         "Module": "Kernel32.dll"
+      },
+      "style": {
+        "outside-position": "left"
       }
     },
     {
@@ -1668,7 +1682,8 @@
         "Name": "NtQueryInformationProcess"
       },
       "style": {
-        "outside-position": "left"
+        "outside-position": "left",
+        "border-color": "#000000"
       }
     },
     {
@@ -1714,13 +1729,13 @@
         "y": 1133.3032981526421
       },
       "caption": "Function",
-      "style": {
-        "outside-position": "left"
-      },
       "labels": [],
       "properties": {
         "Name": "LoadLibraryW",
         "Module": "api-ms-win-core-libraryloader-;1-2-1"
+      },
+      "style": {
+        "outside-position": "left"
       }
     },
     {
@@ -1730,13 +1745,13 @@
         "y": 1510.296149275577
       },
       "caption": "Function",
-      "style": {
-        "outside-position": "left"
-      },
       "labels": [],
       "properties": {
         "Name": "LoadLibraryW",
         "Module": "Kernelbase.dll"
+      },
+      "style": {
+        "outside-position": "left"
       }
     },
     {
@@ -1839,7 +1854,8 @@
         "Name": "NtClose"
       },
       "style": {
-        "outside-position": "left"
+        "outside-position": "left",
+        "border-color": "#000000"
       }
     },
     {
@@ -1942,7 +1958,8 @@
         "Name": "NtClose"
       },
       "style": {
-        "outside-position": "left"
+        "outside-position": "left",
+        "border-color": "#000000"
       }
     },
     {
@@ -2008,7 +2025,8 @@
         "Name": "NtCreateThreadEx"
       },
       "style": {
-        "outside-position": "left"
+        "outside-position": "left",
+        "border-color": "#000000"
       }
     },
     {
@@ -2028,6 +2046,278 @@
         "border-color": "#68bc00",
         "border-width": 10,
         "outside-position": "bottom"
+      }
+    },
+    {
+      "id": "n131",
+      "position": {
+        "x": -865.7833673386734,
+        "y": 50
+      },
+      "caption": "Kernel32.dll",
+      "labels": [],
+      "properties": {},
+      "style": {
+        "border-color": "#fda1ff",
+        "radius": 150,
+        "border-width": 10,
+        "property-font-size": 30,
+        "outside-position": "top"
+      }
+    },
+    {
+      "id": "n132",
+      "position": {
+        "x": -865.7833673386734,
+        "y": 772.2021986996973
+      },
+      "caption": "Kernel32.dll",
+      "labels": [],
+      "properties": {},
+      "style": {
+        "border-color": "#fda1ff",
+        "radius": 150,
+        "border-width": 10,
+        "property-font-size": 30,
+        "outside-position": "top"
+      }
+    },
+    {
+      "id": "n133",
+      "position": {
+        "x": -865.7833673386734,
+        "y": 1133.3032976399722
+      },
+      "caption": "DLL API",
+      "labels": [],
+      "properties": {},
+      "style": {
+        "border-color": "#73d8ff",
+        "radius": 150,
+        "border-width": 10,
+        "property-font-size": 30,
+        "outside-position": "top"
+      }
+    },
+    {
+      "id": "n134",
+      "position": {
+        "x": -865.7833673386734,
+        "y": 1510.296149275578
+      },
+      "caption": "Kernelbase.dll",
+      "labels": [],
+      "properties": {},
+      "style": {
+        "border-color": "#aea1ff",
+        "radius": 150,
+        "border-width": 10,
+        "property-font-size": 30,
+        "outside-position": "top"
+      }
+    },
+    {
+      "id": "n135",
+      "position": {
+        "x": -865.7833673386734,
+        "y": 2264.2818520664464
+      },
+      "caption": "Kernelbase.dll",
+      "labels": [],
+      "properties": {},
+      "style": {
+        "border-color": "#aea1ff",
+        "radius": 150,
+        "border-width": 10,
+        "property-font-size": 30,
+        "outside-position": "top"
+      }
+    },
+    {
+      "id": "n136",
+      "position": {
+        "x": -865.7833673386734,
+        "y": 2641.2747035874786
+      },
+      "caption": "Ntdll.dll",
+      "labels": [],
+      "properties": {},
+      "style": {
+        "border-color": "#68ccca",
+        "radius": 150,
+        "border-width": 10,
+        "property-font-size": 30,
+        "outside-position": "top"
+      }
+    },
+    {
+      "id": "n137",
+      "position": {
+        "x": -865.7833673386734,
+        "y": 3016.792147085284
+      },
+      "caption": "Ntdll.dll",
+      "labels": [],
+      "properties": {},
+      "style": {
+        "border-color": "#68ccca",
+        "radius": 150,
+        "border-width": 10,
+        "property-font-size": 30,
+        "outside-position": "top"
+      }
+    },
+    {
+      "id": "n138",
+      "position": {
+        "x": -865.7833673386734,
+        "y": 3392.3095905830883
+      },
+      "caption": "Syscall",
+      "labels": [],
+      "properties": {},
+      "style": {
+        "border-color": "#fcdc00",
+        "radius": 150,
+        "border-width": 10,
+        "property-font-size": 30,
+        "outside-position": "top"
+      }
+    },
+    {
+      "id": "n139",
+      "position": {
+        "x": 8337.170111783835,
+        "y": 69.59431369878733
+      },
+      "caption": "Kernel32.dll",
+      "labels": [],
+      "properties": {},
+      "style": {
+        "border-color": "#fda1ff",
+        "radius": 150,
+        "border-width": 10,
+        "property-font-size": 30,
+        "outside-position": "top"
+      }
+    },
+    {
+      "id": "n140",
+      "position": {
+        "x": 8337.170111783835,
+        "y": 791.796512398485
+      },
+      "caption": "Kernel32.dll",
+      "labels": [],
+      "properties": {},
+      "style": {
+        "border-color": "#fda1ff",
+        "radius": 150,
+        "border-width": 10,
+        "property-font-size": 30,
+        "outside-position": "top"
+      }
+    },
+    {
+      "id": "n141",
+      "position": {
+        "x": 8337.170111783835,
+        "y": 1152.8976113387598
+      },
+      "caption": "DLL API",
+      "labels": [],
+      "properties": {},
+      "style": {
+        "border-color": "#73d8ff",
+        "radius": 150,
+        "border-width": 10,
+        "property-font-size": 30,
+        "outside-position": "top"
+      }
+    },
+    {
+      "id": "n142",
+      "position": {
+        "x": 8337.170111783835,
+        "y": 1529.8904629743656
+      },
+      "caption": "Kernelbase.dll",
+      "labels": [],
+      "properties": {},
+      "style": {
+        "border-color": "#aea1ff",
+        "radius": 150,
+        "border-width": 10,
+        "property-font-size": 30,
+        "outside-position": "top"
+      }
+    },
+    {
+      "id": "n143",
+      "position": {
+        "x": 8337.170111783835,
+        "y": 2283.876165765234
+      },
+      "caption": "Kernelbase.dll",
+      "labels": [],
+      "properties": {},
+      "style": {
+        "border-color": "#aea1ff",
+        "radius": 150,
+        "border-width": 10,
+        "property-font-size": 30,
+        "outside-position": "top"
+      }
+    },
+    {
+      "id": "n144",
+      "position": {
+        "x": 8337.170111783835,
+        "y": 2660.869017286266
+      },
+      "caption": "Ntdll.dll",
+      "labels": [],
+      "properties": {},
+      "style": {
+        "border-color": "#68ccca",
+        "radius": 150,
+        "border-width": 10,
+        "property-font-size": 30,
+        "outside-position": "top"
+      }
+    },
+    {
+      "id": "n145",
+      "position": {
+        "x": 8337.170111783835,
+        "y": 3036.3864607840715
+      },
+      "caption": "Ntdll.dll",
+      "labels": [],
+      "properties": {},
+      "style": {
+        "border-color": "#68ccca",
+        "radius": 150,
+        "border-width": 10,
+        "property-font-size": 30,
+        "outside-position": "top"
+      }
+    },
+    {
+      "id": "n146",
+      "position": {
+        "x": 8337.170111783835,
+        "y": 3411.903904281876
+      },
+      "caption": "Syscall",
+      "labels": [],
+      "properties": {},
+      "style": {
+        "border-color": "#fcdc00",
+        "radius": 150,
+        "border-width": 10,
+        "property-font-size": 30,
+        "outside-position": "top"
       }
     }
   ],
@@ -2486,59 +2776,59 @@
     },
     {
       "id": "n68",
-      "type": "",
-      "style": {},
-      "properties": {},
       "fromId": "n81",
-      "toId": "n84"
+      "toId": "n84",
+      "type": "",
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n69",
-      "type": "",
-      "style": {},
-      "properties": {},
       "fromId": "n84",
-      "toId": "n85"
+      "toId": "n85",
+      "type": "",
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n70",
-      "type": "",
-      "style": {},
-      "properties": {},
       "fromId": "n85",
-      "toId": "n86"
+      "toId": "n86",
+      "type": "",
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n71",
-      "type": "",
-      "style": {},
-      "properties": {},
       "fromId": "n86",
-      "toId": "n87"
+      "toId": "n87",
+      "type": "",
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n72",
-      "type": "",
-      "style": {},
-      "properties": {},
       "fromId": "n87",
-      "toId": "n88"
+      "toId": "n88",
+      "type": "",
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n73",
-      "type": "",
-      "style": {},
-      "properties": {},
       "fromId": "n88",
-      "toId": "n89"
+      "toId": "n89",
+      "type": "",
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n74",
-      "type": "",
-      "style": {},
-      "properties": {},
       "fromId": "n89",
-      "toId": "n83"
+      "toId": "n83",
+      "type": "",
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n76",
@@ -2566,19 +2856,19 @@
     },
     {
       "id": "n79",
-      "type": "",
-      "style": {},
-      "properties": {},
       "fromId": "n90",
-      "toId": "n92"
+      "toId": "n92",
+      "type": "",
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n80",
-      "type": "",
-      "style": {},
-      "properties": {},
       "fromId": "n95",
-      "toId": "n96"
+      "toId": "n96",
+      "type": "",
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n82",
@@ -2590,27 +2880,27 @@
     },
     {
       "id": "n83",
-      "type": "",
-      "style": {},
-      "properties": {},
       "fromId": "n97",
-      "toId": "n100"
+      "toId": "n100",
+      "type": "",
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n84",
-      "type": "",
-      "style": {},
-      "properties": {},
       "fromId": "n100",
-      "toId": "n101"
+      "toId": "n101",
+      "type": "",
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n85",
-      "type": "",
-      "style": {},
-      "properties": {},
       "fromId": "n101",
-      "toId": "n98"
+      "toId": "n98",
+      "type": "",
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n86",
@@ -2670,43 +2960,43 @@
     },
     {
       "id": "n93",
-      "type": "",
-      "style": {},
-      "properties": {},
       "fromId": "n15",
-      "toId": "n17"
+      "toId": "n17",
+      "type": "",
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n94",
-      "type": "",
-      "style": {},
-      "properties": {},
       "fromId": "n33",
-      "toId": "n110"
+      "toId": "n110",
+      "type": "",
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n95",
-      "type": "",
-      "style": {},
-      "properties": {},
       "fromId": "n110",
-      "toId": "n34"
+      "toId": "n34",
+      "type": "",
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n96",
-      "type": "",
-      "style": {},
-      "properties": {},
       "fromId": "n111",
-      "toId": "n112"
+      "toId": "n112",
+      "type": "",
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n97",
-      "type": "",
-      "style": {},
-      "properties": {},
       "fromId": "n112",
-      "toId": "n113"
+      "toId": "n113",
+      "type": "",
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n98",
@@ -2794,19 +3084,19 @@
     },
     {
       "id": "n108",
-      "type": "",
-      "style": {},
-      "properties": {},
       "fromId": "n113",
-      "toId": "n126"
+      "toId": "n126",
+      "type": "",
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n109",
-      "type": "",
-      "style": {},
-      "properties": {},
       "fromId": "n126",
-      "toId": "n127"
+      "toId": "n127",
+      "type": "",
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n110",
@@ -2826,11 +3116,77 @@
     },
     {
       "id": "n112",
-      "type": "",
-      "style": {},
-      "properties": {},
       "fromId": "n127",
-      "toId": "n128"
+      "toId": "n128",
+      "type": "",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n113",
+      "type": "",
+      "style": {
+        "arrow-color": "#fda1ff",
+        "directionality": "undirected"
+      },
+      "properties": {},
+      "fromId": "n131",
+      "toId": "n132"
+    },
+    {
+      "id": "n114",
+      "type": "",
+      "style": {
+        "arrow-color": "#aea1ff",
+        "directionality": "undirected"
+      },
+      "properties": {},
+      "fromId": "n134",
+      "toId": "n135"
+    },
+    {
+      "id": "n115",
+      "type": "",
+      "style": {
+        "arrow-color": "#68ccca",
+        "directionality": "undirected"
+      },
+      "properties": {},
+      "fromId": "n136",
+      "toId": "n137"
+    },
+    {
+      "id": "n116",
+      "fromId": "n139",
+      "toId": "n140",
+      "type": "",
+      "properties": {},
+      "style": {
+        "arrow-color": "#fda1ff",
+        "directionality": "undirected"
+      }
+    },
+    {
+      "id": "n117",
+      "fromId": "n142",
+      "toId": "n143",
+      "type": "",
+      "properties": {},
+      "style": {
+        "arrow-color": "#aea1ff",
+        "directionality": "undirected"
+      }
+    },
+    {
+      "id": "n118",
+      "fromId": "n144",
+      "toId": "n145",
+      "type": "",
+      "properties": {},
+      "style": {
+        "arrow-color": "#68ccca",
+        "directionality": "undirected"
+      }
     }
   ]
 }
