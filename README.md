@@ -10,7 +10,7 @@ Compile "HelloBoxDLL.cpp" to a .dll, be sure to compile it for x64 architecture.
 
 Before you compile "HelloWorldRPI.cpp", be sure to update the directory of where "HelloBoxDLL.dll" will be located. "HelloWorldRPI.cpp" also needs to be compiled for x64 architecture. 
 
-To see the "Function Calls Diagram", copy the json to the website [arrows.app](https://arrows.app).
+To see the "Function Calls Diagram.json", copy the json to the website [arrows.app](https://arrows.app).
 
 This source code is only intended for educational use.
 
