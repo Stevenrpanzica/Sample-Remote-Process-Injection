@@ -1,6 +1,6 @@
 # Sample-Remote-Process-Injection
 
-This project is for testing and better understanding process injection and C++ functions that are called when the sample source code is compiled and executed. This project tracks the functions from high-level down to syscall leveraging and pivoting off of [Malware Morphology](https://github.com/jaredcatkinson/MalwareMorphology) and [function-call-stacks](https://github.com/jaredcatkinson/function-call-stacks) projects by @jaredcatkinson [jaredcatkinson](https://github.com/jaredcatkinson)
+This project is for testing and better understanding process injection and C++ functions that are called when the sample source code is compiled and executed. This project tracks the functions from high-level down to syscall leveraging and pivoting off of [Malware Morphology](https://github.com/jaredcatkinson/MalwareMorphology) and [function-call-stacks](https://github.com/jaredcatkinson/function-call-stacks) projects by [@jaredcatkinson](https://github.com/jaredcatkinson).
 
 This project is designed for educational purposes only
 
