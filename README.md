@@ -1,5 +1,8 @@
 # Sample-Remote-Process-Injection
-This is sample C++ source code used for Process Injection function call tracing.
+
+This project is for testing and better understanding process injection and C++ functions that are called when the sample source code is compiled and executed. This project tracks the functions from high-level down to syscall leveraging and pivoting off of @jaredcatkinson [Malware Morphology](https://github.com/[jaredcatkinson/MalwareMorphology](https://github.com/jaredcatkinson/MalwareMorphology)) and [function-call-stacks](https://github.com/[jaredcatkinson/function-call-stacks](https://github.com/jaredcatkinson/function-call-stacks)) projects. 
+
+This project is designed for educational purposes only
 
 This source code simply monitors for mspaint.exe to be opened, and once opened, it injects a remote .dll file to open a text box that says "Hello World".
 
